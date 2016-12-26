@@ -8,7 +8,7 @@ div {
 	width: 97.5%;
 	margin-top: -20px;
 	height: 60px;
-	background-color: white;
+	background-color: blue;
 	margin-bottom: 10px;
 }
 
@@ -40,7 +40,7 @@ h4 {
 	margin-right: 5px;
 	margin-top: -10px;
 	font-family: serif;
-	color: pink;
+	color: blue;
 }
 
 li {
@@ -54,10 +54,10 @@ a:hover {
 .left {
 	position: relative;
 	float: left;
-	margin-top: 50px;
+	margin-top: 40px;
 	width: 10%;
 	height: 400px;
-	background-color: #B9D7D9;
+	background-color: ;
 	margin-bottom: 10px;
 }
 
@@ -78,8 +78,7 @@ a:hover {
 	clear: both;
 	font-family: ;
 	font-size: 14px;
-	text-align: c
-    enter;
+	text-align:center;
 	color: #ffffff;
 }
 
